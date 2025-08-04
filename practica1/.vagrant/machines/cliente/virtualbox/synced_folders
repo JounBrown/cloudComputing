@@ -1,0 +1,1 @@
+{"virtualbox":{"/directorio_sincronizado":{"guestpath":"/directorio_sincronizado","hostpath":"/home/jounbrown/Documentos/cloudComputing/practica1/sync","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/jounbrown/Documentos/cloudComputing/practica1","disabled":false,"__vagrantfile":true}}}

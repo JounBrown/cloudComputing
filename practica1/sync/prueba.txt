@@ -1,0 +1,1 @@
+Este archivo prueba que la carpeta sincronizada funciona.
